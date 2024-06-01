@@ -2,6 +2,7 @@ It is a basic application with the functionality of splitting bills between frie
 
 <img src = "https://res.cloudinary.com/dzmffwmxi/image/upload/v1717213912/Screenshot_2024-06-01_092021_zjqdod.png"/>
 <a href ="https://splitbill9760.netlify.app/"> Demo</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
